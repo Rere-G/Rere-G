@@ -1,15 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on: Myself.<br><br>⚡ Fun fact<br> -🙍‍♂️Humans share about 60% of their DNA with a banana.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi%2C%20I'm%20Rere&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer&descAlignY=56&descSize=18" alt="Header" />
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rere-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rere-G&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rere-G&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://github.com/Rere-G">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+web+apps+with+React+%26+PHP;Turning+ideas+into+clean%2C+usable+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rere-G&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Rere-G?style=flat-square&color=58A6FF&label=Followers" alt="Followers" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rere-G&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👋 About me
+
+I'm a web developer who enjoys building complete products — from responsive React interfaces to PHP back ends and MySQL data models. I care about clean code, simple UX, and steady improvement.
+
+- 🔭 **Currently:** investing in myself — sharpening my skills one project at a time
+- 🌱 **Learning:** modern full-stack patterns and writing better, more maintainable code
+- 🤝 **Open to:** collaborating on web projects and open source
+- ⚡ **Fun fact:** humans share about 60% of their DNA with a banana 🍌
+
+---
+
+### 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,php,mysql,git,github,vscode&perline=9" alt="Tech stack" />
+
+</div>
+
+| Area | Tools |
+| :-- | :-- |
+| **Frontend** | React · JavaScript · HTML5 · CSS3 |
+| **Backend** | PHP |
+| **Database** | MySQL |
+| **Workflow** | Git · GitHub · VS Code |
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Rere-G&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rere-G&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Rere-G&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+
+</div>
+
+<details>
+<summary><b>📈 Contribution activity</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rere-G&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution graph" />
+</div>
+</details>
+
+---
+
+<div align="center">
+
+<sub>Thanks for stopping by — feel free to explore my repositories or reach out for a collaboration.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" />
+
+</div>
