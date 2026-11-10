@@ -17,7 +17,7 @@
 
 ### 👋 About me
 
-I'm a web developer who enjoys building complete products — from responsive React interfaces to PHP back ends and MySQL data models. I care about clean code, simple UX, and steady improvement.
+I'm a web developer who enjoys building complete products from responsive React interfaces to PHP back ends and MySQL data models. I care about clean code, simple UX, and steady improvement.
 
 - 🔭 **Currently:** investing in myself — sharpening my skills one project at a time
 - 🌱 **Learning:** modern full-stack patterns and writing better, more maintainable code
