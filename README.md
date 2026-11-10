@@ -58,7 +58,7 @@ I'm a web developer who enjoys building complete products — from responsive Re
 <summary><b>📈 Contribution activity</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rere-G&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/58a6ff/Rere-G" alt="Contribution calendar" width="100%" />
 </div>
 </details>
 
@@ -71,3 +71,4 @@ I'm a web developer who enjoys building complete products — from responsive Re
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" />
 
 </div>
+
