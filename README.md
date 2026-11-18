@@ -37,11 +37,7 @@ I'm currently expanding into **Python** for automation, scripting, and data work
   <img src="https://skillicons.dev/icons?i=react,js,html,css,php,mysql,python,git,github,vscode" alt="React, JavaScript, HTML, CSS, PHP, MySQL, Python, Git, GitHub, VS Code" />
 </p>
 
-### How I work
 
-- **Ship early, then refine** based on real feedback
-- **Readable over clever.** Clear names, small functions, no surprises
-- **User first.** Performance and usability are features, not extras
 
 ### GitHub activity
 
